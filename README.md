@@ -1,16 +1,13 @@
-# Simply Love (StepMania 5)
+# Song Packs
 
 ![Arrow Logo](https://i.imgur.com/oZmxyGo.png)
 
 
 ## About
 
-Simply Love is a StepMania 5 theme for the post-ITG community.
+Stepmania has many sources for song packs and single simfiles (charts for individual songs), however I like to sort and re-pack releases into custom packs. To make it easier to locate songs and submit requests as channel redeems for me to play on stream, I have created this documentation. 
 
-It features a clean and simple design, offers numerous data-driven features not implemented by the StepMania 5 engine, and allows the current generation of ITG fans to breathe new life into the game they've known for over a decade.
-
-Simply Love was originally designed and implemented for a previous version of StepMania (SM3.95) by hurtpiggypig.  For more information on that version of Simply Love, check here:
-https://www.youtube.com/watch?v=OtcWy5m6-CQ
+If you have any questions or have suggestions for songs for me to add to my list, please reach out on our [Discord](https://discord.gg/5pHXvYG).
 
 
 ## Supported Versions of StepMania
