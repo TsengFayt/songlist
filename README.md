@@ -5,43 +5,29 @@
 
 ## About
 
-Stepmania has many sources for song packs and single simfiles (charts for individual songs), however I like to sort and re-pack releases into custom packs. To make it easier to locate songs and submit requests as channel redeems for me to play on stream, I have created this documentation. 
+StepMania has many sources for song packs and single simfiles (charts for individual songs), however I like to sort and re-pack releases into custom packs. To make it easier to locate songs and submit song requests for me to play on stream (both existing and suggestions), I have created this documentation. If the song is listed below, you can request me to play it during stream with a channel points redemption.
 
 If you have any questions or have suggestions for songs for me to add to my list, please reach out on our [Discord](https://discord.gg/5pHXvYG).
 
 
 ## Supported Versions of StepMania
 
-Simply Love is compatible with current releases from the official StepMania project.
+Currently, I use StepMania 5.1-b2 as my default platform, so when submitting suggestions for simfiles for me to play, keep in mind that not all songs are compatible (however most are). Below is a list of additional platforms I have installed, which I may switch to from time to time for modded simfiles.
 
-**Compatible Releases**<br>
-✅ [StepMania 5.0.12](https://github.com/stepmania/stepmania/releases/tag/v5.0.12)<br>
-✅ [StepMania 5.1-b2](https://github.com/stepmania/stepmania/releases/tag/v5.1.0-b2)<br>
-✅ [OutFox 0.4.14.1](https://projectoutfox.com/releases/0.4.14.1) and newer (preliminary support). Versions prior to that are not supported.<br>
+**StepMania platforms**<br>
+* StepMania 5.1-b2 (default)
+* StepMania 5.3 beta
+* ITGmania
+* NotITG
+* OpenITG
+* OutFox
+* Etterna
 
-For new installations we currently recommend installing StepMania 5.1. While
-5.0.12 is officially the latest stable release of StepMania, 5.1 is widely used
-and an improvement over 5.0 in almost every regard. StepMania 5.3 (Outfox) is
-currently in an alpha stage of development. Check it out, though. The project
-is making great progress!
+## Diffculty Level
 
-If you are able to compile StepMania's source code yourself, the [5_1-new branch](https://github.com/stepmania/stepmania/tree/5_1-new/) is supported.  The wiki has [instructions for compiling](https://github.com/stepmania/stepmania/wiki/Compiling-StepMania).
+By default, I try to play the highest difficulty available for any given chart and I play with FA+ ITG timing, which means the window to get a blue Fantastic judgment for any given note is smaller, requiring me to be more precise to get a good score. Songs on lower difficulty aren't as fun for me, and even less fun for stream to watch me play, so I tend to avoid anything lower than a HARD 8. On the opposite end of the spectrum, I have no desire to play gimmick files or note dumps (songs where the timing/arrows doesn't match to the beat and instead is difficult for the sake of being difficult). Suggestions for these types of files will likely be vetoed and when I find songs of this type in a pack, I will typically delete them. 
 
-
-**Incompatible**<br>
-❌ Forks of SM5 (e.g. *starworlds*)<br>
-❌ Older versions of StepMania (e.g. StepMania 3.9)<br>
-❌ Forks of older versions of StepMania (e.g. OpenITG, NotITG)<br>
-❌ SM5.2
-
-
-## Installing Simply Love
-
-If you are upgrading from a previous version of Simply Love, fully delete the old Simply Love folder first.  **Do not merge the new folder into the old.**
-
-You can download the current Simply Love release at the [Latest Release](https://github.com/Simply-Love/Simply-Love-SM5/releases/latest) page.
-
-Full install instructions are in the [Installing Simply Love](./Other/Documentation/InstallingSimplyLove-README.md) README.
+Keep in mind, I feel there is a difference between a gimmick simfile and a modded simfile; gimmick files are heavily modded and borderline unplayable, but look very cool visually, whereas modded simfiles have effects and modifiers that are visually pleasing, but are still reasonably passable for experienced players.
 
 
 ## Language Support
